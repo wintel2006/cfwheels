@@ -1,3 +1,3 @@
-<datasource id="assetsds">
-	assetsds
+<datasource id="dopsds">
+	dopsds
 </datasource>
